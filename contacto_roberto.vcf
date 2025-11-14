@@ -1,9 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
+N:Quintana;Roberto;;;
 FN:Roberto Quintana
-ORG:Roberto Quintana
+ORG:Maguey Digital
 TEL;TYPE=cell:+529511016375
 EMAIL;TYPE=work:hola@magueydigital.com
 EMAIL;TYPE=info:rrquintana7@gmail.com
 URL:https://magueydigital.com
+PHOTO:https://raw.githubusercontent.com/rrQuintana/contact/main/Software_Engineer_black.png
 END:VCARD

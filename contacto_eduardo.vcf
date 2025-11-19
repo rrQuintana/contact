@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Varela;Eduardo;;;
+FN:Eduardo Varela
+ORG:Maguey Digital
+TEL;TYPE=cell:+529515046938
+EMAIL;TYPE=work:hola@magueydigital.com
+EMAIL;TYPE=info:ed.varelahdz@gmail.com
+URL:https://magueydigital.com
+PHOTO:https://raw.githubusercontent.com/rrQuintana/contact/main/edu.png
+END:VCARD
